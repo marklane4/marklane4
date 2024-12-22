@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm working on my final year project, "Utilising computer vision in property price prediction"
 
 <!--
 **marklane4/marklane4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
